@@ -1,0 +1,1 @@
+typedef uvm_sequence #(transact) my_sequencer;
